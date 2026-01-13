@@ -33,7 +33,7 @@ ALLOWED_HOSTS = [
     '.ngrok.io',  # Allow all ngrok.io subdomains (for paid ngrok)
     'testtttttt-kf9v.onrender.com',
     'ostad-batch-09-1-cwz9.onrender.com',
-    '.onrender.com',
+    'assignment-on-module-2-deploy.onrender.com',
 
 ]
 
